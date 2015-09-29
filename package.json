@@ -1,6 +1,6 @@
 {
   "name": "lex-compare",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Implements lexicographical comparison.",
   "homepage": "https://github.com/voltrevo/lex-compare#readme",
   "repository": "voltrevo/lex-compare",
