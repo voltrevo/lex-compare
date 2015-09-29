@@ -73,7 +73,7 @@ var compareVersions = (function() {
 })();
 
 console.log(
-  compareVersions('1.0.0', '1.1.1') // -1
+  compareVersions('1.0.0', '1.1.1'), // -1
   compareVersions('1.20.0', '1.7.0') // 1
 );
 ```
