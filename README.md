@@ -45,7 +45,7 @@ var tPosLexComparator = require('lex-compare')(function(a, b) {
 
 console.log(
   // -1 because [0] < [3]
-  tPosLexComparator(['tetris'], ['flute'])
+  tPosLexComparator(['tetris'], ['flute']),
   
   // 1 because [0, 1] > [0, 0]
   tPosLexComparator(['tetris', 'strobe'], ['trail', 'top'])
