@@ -1,4 +1,5 @@
-# lex-compare [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Code Climate](https://codeclimate.com/github/voltrevo/lex-compare/badges/gpa.svg)](https://codeclimate.com/github/voltrevo/lex-compare)
+# lex-compare
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![Code Climate](https://codeclimate.com/github/voltrevo/lex-compare/badges/gpa.svg)](https://codeclimate.com/github/voltrevo/lex-compare)
 > Implements lexicographical comparison.
 
 
